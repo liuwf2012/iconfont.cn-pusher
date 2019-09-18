@@ -80,6 +80,10 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
+## 添加用户脚本
+在浏览器的Tampermonkey插件中导入 `http://localhost:3000/js/iconfont-pusher.user.js` 用户脚本
+
+
 ## 最后
 
 官方还是早点开放这部分api吧 -_-!
