@@ -3,7 +3,7 @@
 
 ## 效果演示
 
-![preview](./preview.gif)
+![preview](https://sunmi-static.oss-cn-hangzhou.aliyuncs.com/assets/mgt/preview.gif)
 
 ## 背景
 
